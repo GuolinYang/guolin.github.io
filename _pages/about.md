@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Guolin Yang (杨国林)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is Guolin's home on the web.
+I'm a first year PhD student in Control and Robotics Group, [Department of Electrical and Electronic Engineering](https://www.eee.manchester.ac.uk/), [University of Manchester](https://www.manchester.ac.uk/), advised by Professor [Guido Herrmann](https://research.manchester.ac.uk/en/persons/guido.herrmann). My research primarily focuses on autonomous navigation in crowded and interactive environments using machine learning methods. I am also involved in a wide range of other projects, such as language understanding for robots, driver behavior simulation, and anomaly detection. My long term goal is to enable robots to interact and collaborate with people in daily life.
 
-:)
+Previously, I earned my Bachelor’s Degree in Vehicle Engineering from Hunan University at Changsha in June 2020, and Master's Degree in Advanced Control & Systems Engineering with Extended Research from University of Manchester in July 2022.
+
+Research interest:
+
+  - Human-Robot Interaction
+  - Multi-agent Systems
+  - Learning-based Robotics
