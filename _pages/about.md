@@ -17,6 +17,7 @@ Research interest:
   - Human-Robot Interaction
   - Multi-agent Systems
   - Learning-based Robotics
+  - Self-driving Simulation
 
 
 News
