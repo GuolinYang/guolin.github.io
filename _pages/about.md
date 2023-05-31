@@ -14,7 +14,6 @@ Previously, I earned my Bachelor’s Degree in Vehicle Engineering from Hunan Un
 
 Research interest:
 
-  - Human-Robot Interaction
   - Multi-agent Systems
   - Learning-based Robotics
   - Self-driving Simulation
