@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Guolin-Yang-2"
+  email            : "guolin.yang@postgrad.manchester.ac.uk"
+  researchgate     : "https://www.researchgate.net/profile/Guolin-Yang-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -175,16 +175,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  project:
     output: true
     permalink: /:collection/:path/
-  talks:
+  slides:
     output: true
     permalink: /:collection/:path/
 
