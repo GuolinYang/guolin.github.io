@@ -1,12 +1,13 @@
 ---
-layout: archive
+layout: page
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-* Please find my CV [here](/files/CV_Guolin_202305.pdf)
+* Please find my CV here
+* [PDF](/files/CV_Guolin_202305.pdf)
 
 <br>
 ## Education
@@ -29,3 +30,15 @@ redirect_from:
 
 <br>
 <br>
+
+## Work Experience
+
+##### Group Lotus, Hangzhou
+
+* August 2022 - November 2022
+* Junior ADAS engineer
+
+##### NIO, Shanghai 
+
+* June 2021 - September 2021
+* Intership, Battery System
