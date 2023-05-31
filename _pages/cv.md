@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Please find my CV [here](/files/CV_Guolin_202305.pdf)
+* Please find my CV [here](/files/CV_Guolin_202305.pdf)
 
 <br>
 ## Education
