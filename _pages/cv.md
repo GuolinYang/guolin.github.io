@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 * Please find my CV here
-* [PDF](/files/CV_Guolin_202305.pdf)
+[PDF](/files/CV_Guolin_202305.pdf)
 
 <br>
 ## Education
